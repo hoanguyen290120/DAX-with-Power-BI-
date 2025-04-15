@@ -1,12 +1,5 @@
 DAX from basic to advanced : 
 Mẫu data được sử dụng: Contoso data
-
-Click vào link để xem bảng report ( DAX from basic to advanced ) đã trực quan hóa
-
-https://app.powerbi.com/view?r=eyJrIjoiOTVhMmMyZmMtOTRjMS00MWI4LThlMDQtMjg2MDM4OGUzZmM5IiwidCI6IjY1ZGRlNDg0LTQxNzMtNGU0Ni04Nzc1LThiNTVhYzY4Y2E3MCJ9&pageName=ReportSectiondec6b067fa375ce186aa
-
-                                         
- Các hàm Dax đã viết để xây dựng bảng report  ( DAX from basic to advanced )
                      
                         
                         CASE 1: Số lượng ProductName có Doanh Thu lớn hơn Doanh Thu trung bình của 1 Product Name              
